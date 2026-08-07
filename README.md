@@ -65,17 +65,4 @@ Currently expanding my expertise through the **Developer Akademie**, focusing on
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmasMovsisian&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmasMovsisian&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=AmasMovsisian&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
 > **Building software where engineering, creativity, and design meet.**

@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Amas Movsisian
 
 ### Full-Stack Developer | Technical Designer | 3D Enthusiast
@@ -98,4 +97,4 @@ amas2017@icloud.com
 ---
 
 > *Building modern software with a combination of engineering, creativity, and design.*
-```
+

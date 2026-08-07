@@ -50,7 +50,7 @@ Currently expanding my expertise through the Developer Akademie, focusing on mod
 A responsive Kanban task management application built with Angular and Firebase, featuring authentication and real-time data synchronization.
 
 **Live Demo**  
-https://join.amasmovsisian.com/
+https://join.amasmovsisian.com
 
 **Repository**  
 https://github.com/AmasMovsisian/Join
@@ -63,7 +63,7 @@ https://github.com/AmasMovsisian/Join
 A browser-based Jump & Run game built with HTML, CSS, and JavaScript using object-oriented programming.
 
 **Live Demo**  
-https://elpolloloco.amasmovsisian.com/
+https://elpolloloco.amasmovsisian.com
 
 **Repository**  
 https://github.com/AmasMovsisian/ElPolloLoco
@@ -80,7 +80,7 @@ https://github.com/AmasMovsisian/ElPolloLoco
 A Django REST API powering a freelance marketplace platform with authentication, authorization, and project management.
 
 **Live Demo**  
-https://coderr.amasmovsisian.com/
+https://coderr.amasmovsisian.com
 
 **Repository**  
 https://github.com/AmasMovsisian/Coderr_backend
@@ -93,7 +93,7 @@ https://github.com/AmasMovsisian/Coderr_backend
 A Django REST API backend for a Kanban project management application with structured data handling and authentication.
 
 **Live Demo**  
-https://kanmind.amasmovsisian.com/pages/auth/login.html
+https://kanmind.amasmovsisian.com
 
 **Repository**  
 https://github.com/AmasMovsisian/Kanmind_Backend

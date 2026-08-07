@@ -85,19 +85,6 @@ https://coderr.amasmovsisian.com
 **Repository**  
 https://github.com/AmasMovsisian/Coderr_backend
 
-<br>
-
-### KanMind Backend  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-
-A Django REST API backend for a Kanban project management application with structured data handling and authentication.
-
-**Live Demo**  
-https://kanmind.amasmovsisian.com
-
-**Repository**  
-https://github.com/AmasMovsisian/Kanmind_Backend
-
 ---
 
 ## Interests

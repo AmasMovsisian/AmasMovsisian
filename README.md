@@ -42,9 +42,7 @@ Currently expanding my expertise through the Developer Akademie, focusing on mod
 
 ---
 
-## Projects
-
-## Frontend
+## Frontend Projects
 
 ### Join  
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
@@ -57,6 +55,7 @@ https://join.amasmovsisian.com/
 **Repository**  
 https://github.com/AmasMovsisian/Join
 
+<br>
 
 ### El Pollo Loco  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" />
@@ -69,10 +68,11 @@ https://elpolloloco.amasmovsisian.com/
 **Repository**  
 https://github.com/AmasMovsisian/ElPolloLoco
 
+<br>
 
 ---
 
-## Backend
+## Backend Projects
 
 ### Coderr Backend API  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
@@ -85,6 +85,7 @@ https://coderr.amasmovsisian.com/
 **Repository**  
 https://github.com/AmasMovsisian/Coderr_backend
 
+<br>
 
 ### KanMind Backend  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />

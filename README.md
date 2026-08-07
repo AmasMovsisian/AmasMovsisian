@@ -42,6 +42,63 @@ Currently expanding my expertise through the Developer Akademie, focusing on mod
 
 ---
 
+## Projects
+
+## Frontend
+
+### Join  
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+
+A responsive Kanban task management application built with Angular and Firebase, featuring authentication and real-time data synchronization.
+
+**Live Demo**  
+https://join.amasmovsisian.com/
+
+**Repository**  
+https://github.com/AmasMovsisian/Join
+
+
+### El Pollo Loco  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" />
+
+A browser-based Jump & Run game built with HTML, CSS, and JavaScript using object-oriented programming.
+
+**Live Demo**  
+https://elpolloloco.amasmovsisian.com/
+
+**Repository**  
+https://github.com/AmasMovsisian/ElPolloLoco
+
+
+---
+
+## Backend
+
+### Coderr Backend API  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+
+A Django REST API powering a freelance marketplace platform with authentication, authorization, and project management.
+
+**Live Demo**  
+https://coderr.amasmovsisian.com/
+
+**Repository**  
+https://github.com/AmasMovsisian/Coderr_backend
+
+
+### KanMind Backend  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+
+A Django REST API backend for a Kanban project management application with structured data handling and authentication.
+
+**Live Demo**  
+https://kanmind.amasmovsisian.com/pages/auth/login.html
+
+**Repository**  
+https://github.com/AmasMovsisian/Kanmind_Backend
+
+---
+
 ## Interests
 
 - Modern Full-Stack Applications

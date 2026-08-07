@@ -54,15 +54,4 @@ Currently expanding my expertise through the **Developer Akademie**, focusing on
 
 ---
 
-## Currently Learning
-
-- Advanced Django
-- Cloud Infrastructure
-- CI/CD Pipelines
-- Design Patterns
-- Application Security
-- Scalable System Architecture
-
----
-
 > **Building software where engineering, creativity, and design meet.**

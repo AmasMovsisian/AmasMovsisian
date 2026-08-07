@@ -12,11 +12,11 @@ Based in Dortmund, Germany
 
 ## About Me
 
-I am a Full-Stack Developer with a professional background in **Media Design** and **Technical Design**, combining creativity with software engineering to build modern digital experiences.
+I am a Full-Stack Developer and Creative Technologist with a professional background in Media Design and Technical Design, combining software engineering with visual creativity to build innovative digital experiences.
 
-With expertise in **frontend development, backend architecture, and interactive 3D applications**, I enjoy transforming ideas into scalable, high-performance web applications. My background in design enables me to create products that are not only technically robust but also intuitive and visually refined.
+With expertise in frontend development, backend architecture, interactive 3D applications, CGI/VFX workflows, animation, and post-production, I transform complex ideas into scalable, high-performance, and visually engaging solutions. My design-driven approach allows me to create products that are not only technically robust but also intuitive, immersive, and refined.
 
-Currently expanding my expertise through the **Developer Akademie**, focusing on modern software architecture, cloud technologies, and industry best practices.
+Currently expanding my expertise through the Developer Akademie, focusing on modern software architecture, cloud technologies, and industry best practices to develop future-ready digital solutions.
 
 ---
 

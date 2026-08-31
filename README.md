@@ -16,13 +16,11 @@ I build digital experiences where software engineering, visual design, and inter
 
 ## About Me
 
-I'm a **Full-Stack Developer** with a professional background in **Media Design** and **Technical Design**. I combine software engineering with visual creativity to build modern web applications, interactive 3D experiences, and technically refined digital products.
+I'm a Full Stack Developer with a professional background in Media Design and Technical Design. I combine software engineering, visual design, and interactive 3D to create modern web applications and digital experiences.
 
-My focus includes **frontend development, backend architecture, REST APIs, interactive 3D applications, UI/UX, CGI/VFX workflows, animation, and post-production**.
+My work spans frontend and backend development, REST APIs, UI/UX, WebGL, 3D, CGI, and VFX. My design background helps me approach development from both a technical and creative perspective, with a strong focus on functionality, performance, and user experience.
 
-My background in design allows me to approach development from both a technical and visual perspective from architecture and functionality to interaction, performance, and the overall user experience.
-
-I completed my professional software development education at the **Developer Akademie**, with a focus on modern web development, software architecture, backend development, APIs, databases, and industry best practices.
+I completed my professional software development education at the Developer Akademie, focusing on modern web development, software architecture, backend development, APIs, and databases.
 
 ---
 
@@ -31,7 +29,7 @@ I completed my professional software development education at the **Developer Ak
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,threejs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,threejs" />
 </p>
 
 ### Backend
